@@ -31,3 +31,8 @@ Los datos utilizados en este proyecto son simulados.
 
 ```bash
 python -m venv .venv
+
+### 2. Activar el entorno virtual en Windows PowerShell
+
+```powershell
+.\.venv\Scripts\Activate.ps1
